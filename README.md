@@ -24,6 +24,7 @@ The project aims to:
 
 Block Diagram:
 
+<img width="1536" height="1024" alt="Block Diagram " src="https://github.com/user-attachments/assets/5f76ae5b-c5b3-4ef9-8ca7-ef46996d8d0b" />
 
 
 ## 🚀 Features
